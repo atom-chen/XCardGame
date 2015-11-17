@@ -1,0 +1,11 @@
+{
+"types":
+["I","I","S","S","S"],
+"fields":
+["id","score","condition","plistFile","iconName"],
+"values":
+[
+["1","9999","通关第5关","png/uibase2frame.plist","base02_frame_s1.png"]
+,["2","9999","通关第10关","png/uibase2frame.plist","base02_frame_s2.png"]
+]
+}

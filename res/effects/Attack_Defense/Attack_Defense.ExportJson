@@ -1,0 +1,607 @@
+{
+  "content_scale": 1.0,
+  "armature_data": [
+    {
+      "strVersion": "1.6.0.0",
+      "version": 1.6,
+      "name": "Attack_Defense",
+      "bone_data": [
+        {
+          "name": "Layer2",
+          "parent": "",
+          "dI": 0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": true,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "defense/defense_0000.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.5,
+                  "y": 0.326660156,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "defense/defense_0001.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.5,
+                  "y": 0.326660156,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "defense/defense_0002.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.5,
+                  "y": 0.326660156,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "defense/defense_0003.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.5,
+                  "y": 0.326660156,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "defense/defense_0004.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.5,
+                  "y": 0.326660156,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "defense/defense_0005.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.5,
+                  "y": 0.326660156,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "defense/defense_0006.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.5,
+                  "y": 0.326660156,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "defense/defense_0007.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.5,
+                  "y": 0.326660156,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "defense/defense_0008.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.5,
+                  "y": 0.326660156,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "defense/defense_0009.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.5,
+                  "y": 0.326660156,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "defense/defense_0010.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.5,
+                  "y": 0.326660156,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "defense/defense_0011.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.5,
+                  "y": 0.326660156,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "defense/defense_0012.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.5,
+                  "y": 0.326660156,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "defense/defense_0013.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.5,
+                  "y": 0.326660156,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "animation_data": [
+    {
+      "name": "Attack_Defense",
+      "mov_data": [
+        {
+          "name": "Animation1",
+          "dr": 73,
+          "lp": true,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 1.0,
+          "mov_bone_data": [
+            {
+              "name": "Layer2",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 28.333333969116211,
+                  "y": 20.0,
+                  "z": 0,
+                  "cX": 1.6,
+                  "cY": 1.6,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 1,
+                  "x": -1.5497207641601563E-06,
+                  "y": 8.3333330154418945,
+                  "z": 0,
+                  "cX": 1.6,
+                  "cY": 1.6,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 5,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 2,
+                  "x": 8.3333339691162109,
+                  "y": 10.833332061767578,
+                  "z": 0,
+                  "cX": 1.6,
+                  "cY": 1.6,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 3,
+                  "x": 18.333337783813477,
+                  "y": 20.0,
+                  "z": 0,
+                  "cX": 1.6,
+                  "cY": 1.6,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 15,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 4,
+                  "x": 26.333328247070312,
+                  "y": 18.833332061767578,
+                  "z": 0,
+                  "cX": 1.6,
+                  "cY": 1.6,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 20,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 5,
+                  "x": 30.333332061767578,
+                  "y": 16.333333969116211,
+                  "z": 0,
+                  "cX": 1.6,
+                  "cY": 1.6,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 25,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 6,
+                  "x": 40.000003814697266,
+                  "y": 11.333333969116211,
+                  "z": 0,
+                  "cX": 1.6,
+                  "cY": 1.6,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 7,
+                  "x": 45.000007629394531,
+                  "y": 6.6666669845581055,
+                  "z": 0,
+                  "cX": 1.6,
+                  "cY": 1.6,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 35,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 8,
+                  "x": 63.333335876464844,
+                  "y": 16.0,
+                  "z": 0,
+                  "cX": 1.6,
+                  "cY": 1.6,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 40,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 9,
+                  "x": 60.166671752929688,
+                  "y": 21.333333969116211,
+                  "z": 0,
+                  "cX": 1.6,
+                  "cY": 1.6,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 45,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 10,
+                  "x": 60.499996185302734,
+                  "y": 14.833333015441895,
+                  "z": 0,
+                  "cX": 1.9,
+                  "cY": 1.9,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 50,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 11,
+                  "x": 52.725559234619141,
+                  "y": 16.409772872924805,
+                  "z": 0,
+                  "cX": 2.1,
+                  "cY": 2.1,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 55,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 12,
+                  "x": 70.499984741210938,
+                  "y": 9.9999990463256836,
+                  "z": 0,
+                  "cX": 2.39999986,
+                  "cY": 2.39999986,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 61,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 13,
+                  "x": 64.499984741210938,
+                  "y": 10.499998092651367,
+                  "z": 0,
+                  "cX": 2.49999976,
+                  "cY": 2.49999976,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 70,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 100,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": -987,
+                  "x": 64.499984741210938,
+                  "y": 10.499998092651367,
+                  "z": 0,
+                  "cX": 2.3,
+                  "cY": 2.3,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 72,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "texture_data": [
+    {
+      "name": "defense/defense_0000",
+      "width": 439.0,
+      "height": 479.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "defense/defense_0001",
+      "width": 439.0,
+      "height": 479.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "defense/defense_0002",
+      "width": 439.0,
+      "height": 479.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "defense/defense_0003",
+      "width": 439.0,
+      "height": 479.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "defense/defense_0004",
+      "width": 439.0,
+      "height": 479.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "defense/defense_0005",
+      "width": 439.0,
+      "height": 479.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "defense/defense_0006",
+      "width": 439.0,
+      "height": 479.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "defense/defense_0007",
+      "width": 439.0,
+      "height": 479.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "defense/defense_0008",
+      "width": 439.0,
+      "height": 479.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "defense/defense_0009",
+      "width": 439.0,
+      "height": 479.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "defense/defense_0010",
+      "width": 439.0,
+      "height": 479.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "defense/defense_0011",
+      "width": 439.0,
+      "height": 479.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "defense/defense_0012",
+      "width": 439.0,
+      "height": 479.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    },
+    {
+      "name": "defense/defense_0013",
+      "width": 439.0,
+      "height": 479.0,
+      "pX": 0.5,
+      "pY": 0.5,
+      "plistFile": ""
+    }
+  ],
+  "config_file_path": [
+    "Attack_Defense0.plist",
+    "Attack_Defense1.plist",
+    "Attack_Defense2.plist",
+    "Attack_Defense3.plist"
+  ],
+  "config_png_path": [
+    "Attack_Defense0.png",
+    "Attack_Defense1.png",
+    "Attack_Defense2.png",
+    "Attack_Defense3.png"
+  ]
+}

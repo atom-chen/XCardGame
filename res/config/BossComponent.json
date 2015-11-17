@@ -1,0 +1,12 @@
+{
+"types":
+["I","SV","IV","SV","SV","I","I","I2","IV","I2","I2","SV","I","I","I2","IV","I2","I2","SV","I","I","I2","IV","I2","I2","SV","I","I","I2","IV","I2","I2","SV","I","I","I2","IV","I2","I2","SV","I","I","I2","IV","I2","I2","SV","I","I","I2","IV","I2","I2","SV","I","I","I2","IV","I2","I2"],
+"fields":
+["id","name","allDestoryGuns","allDestoryComps","compName1","compHpFactor1","compAtkFactor1","compBloodbarOffset1","compGuns1","compPos1","compSize1","compName2","compHpFactor2","compAtkFactor2","compBloodbarOffset2","compGuns2","compPos2","compSize2","compName3","compHpFactor3","compAtkFactor3","compBloodbarOffset3","compGuns3","compPos3","compSize3","compName4","compHpFactor4","compAtkFactor4","compBloodbarOffset4","compGuns4","compPos4","compSize4","compName5","compHpFactor5","compAtkFactor5","compBloodbarOffset5","compGuns5","compPos5","compSize5","compName6","compHpFactor6","compAtkFactor6","compBloodbarOffset6","compGuns6","compPos6","compSize6","compName7","compHpFactor7","compAtkFactor7","compBloodbarOffset7","compGuns7","compPos7","compSize7","compName8","compHpFactor8","compAtkFactor8","compBloodbarOffset8","compGuns8","compPos8","compSize8"],
+"values":
+[
+["710002","Boss1","903102|913102|923102|933102|943102|953102|","0","comp_02","0.3","1","0|-30","901502|901503","-100|30","50|50","comp_03","0.3","1","0|-31","911502|911503","100|30","50|51","comp_01","0.6","1","0|-31","901501","0|30","50|51","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]
+,["710001","Boss2","2704|2101","Layer50","comp_01","0.3","3","0|-30","2703","0|0","50|50","comp_02","0.3","1","0|-30","2702","-120|-135","80|100","comp_03","0.3","1","0|-32","2705","120|-135","80|100","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]
+,["710003","Boss3","5103|5104|5105|5106","0","comp_02","0.3","1","0|-30","5101","-100|30","50|50","comp_03","0.3","1","0|-31","5107","100|30","50|51","comp_01","0.6","1","0|-31","5102","0|30","50|51","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]
+]
+}
